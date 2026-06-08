@@ -66,7 +66,7 @@ The engine (`black_scholes_engine.py`) is fully decoupled from the UI and can be
 
 ```bash
 # Clone the repository
-git clone https://github.com/bhagyeshsoni03/black-scholes-option-pricer.git
+git clone https://github.com/bsoni3402/black-scholes-option-pricer.git
 cd black-scholes-option-pricer
 
 # Install dependencies
@@ -182,4 +182,4 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
-Bhagyesh Soni — [github.com/bhagyeshsoni03](https://github.com/bhagyeshsoni03)
+Bhagyesh Soni — [github.com/bsoni3402](https://github.com/bsoni3402)
